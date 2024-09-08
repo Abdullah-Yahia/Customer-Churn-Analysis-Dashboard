@@ -1,5 +1,8 @@
 # Customer Churn Analysis Dashboard
 ### This Power BI dashboard uses to help businesses prevent customer loss and improve customer service.
+
+#### Dashboard link: https://project.novypro.com/IGWZeZ
+
 # Key Features
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
