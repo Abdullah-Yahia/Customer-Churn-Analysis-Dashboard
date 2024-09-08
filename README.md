@@ -22,4 +22,6 @@ Besides making great dashboards, I also help clients understand the data and mak
 
 - **shared important findings: Summarized data nicely focusing on what matters.** 
 - **Suggested actions: Gave specific advice on what to do next.**
+
+ 
 ![](https://github.com/Abdullah-Yahia/Customer-Churn-Analysis-Dashboard/blob/main/E-mail.png)
